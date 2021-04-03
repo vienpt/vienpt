@@ -1,10 +1,10 @@
 ## Hi there, I'm Vien 👋
-I'm a full stack developer. I create interactive web stuff using Vuejs, Nuxtjs, and something new Blazor webassembly in frond end. In back end I work with ASP.Net Core and Cloud-native application (Azure). You can find my blog-posts on my [ website](https://viendev.netlify.app), which is created using Vuepress.
+I'm a full stack developer. I create interactive web stuff using Vuejs, Nuxtjs, and something new Blazor webassembly in frond end. In back end I work with ASP.Net Core, Java Springboot and Cloud-native application (Azure). You can find my blog-posts on my [ website](https://viendev.netlify.app), which is created using Vuepress.
 
 Some technologies I enjoy working with are JAMStack (JavaScript, APIs, Markup), Headless CMS and more. My interest in the Nuxtjs framework that let me create almost web application (homepage for my company).
 
 [Archway Factory](https://www.archwayfactory.com/)
-[Archway](https://archwayhomepage.z7.web.core.windows.net/)
+[Archway](https://www.archway.co.jp)
 
 
 Apart from this, I also have interest with write some notes on workspace by using tools like: notion, fluid (microsoft), and notes.
