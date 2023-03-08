@@ -4,6 +4,7 @@ I'm a full stack developer. I create interactive web stuff using Vuejs, Nuxtjs, 
 Some technologies I enjoy working with are JAMStack (JavaScript, APIs, Markup), Headless CMS and more. My interest in the Nuxtjs framework that let me create almost web application (homepage for my company).
 
 [Archway Factory](https://www.archwayfactory.com/)
+
 [Archway](https://www.archway.co.jp)
 
 
@@ -11,7 +12,7 @@ Apart from this, I also have interest with write some notes on workspace by usin
 
 ### Find me around the web:
 - [Personal Blog](https://viendev.netlify.app)
-- [Twitter](https://twitter.com/vien_bb)
+- [Twitter](https://twitter.com/vienvee_bb)
 
 ### Some project here:
 
