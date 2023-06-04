@@ -1,5 +1,5 @@
 ## Hi there, I'm Vien 👋
-I'm a full stack developer. I create interactive web stuff using Vuejs, Nuxtjs, and something new Blazor webassembly in frond end. In back end I work with ASP.Net Core, Java Springboot and Cloud-native application (Azure). You can find my blog-posts on my [ website](https://viendev.netlify.app), which is created using Vuepress.
+I create interactive web stuff using Vuejs, Nuxtjs in front-end and .Net Core, Java Springboot in back-end. You can find my blog-posts on my [ website](https://viendev.netlify.app), which is created using Vuepress.
 
 Some technologies I enjoy working with are JAMStack (JavaScript, APIs, Markup), Headless CMS and more. My interest in the Nuxtjs framework that let me create almost web application.
 
@@ -17,6 +17,14 @@ Apart from this, I also have interest with write some notes on workspace by usin
 - [Twitter](https://twitter.com/vienvee_bb)
 
 ### Some project here:
+
+- Build example event landing page
+
+[![Pin Project](https://github-readme-stats.vercel.app/api/pin/?username=vienpt&repo=event-website-starter)](https://github.com/vienpt/event-website-starter)
+
+- Build blog content with Nuxt content (v1)
+
+[![Pin Project](https://github-readme-stats.vercel.app/api/pin/?username=vienpt&repo=viendev-nuxt-content-blog)](https://github.com/vienpt/viendev-nuxt-content-blog)
 
 - The idea for design web recruitment by using Nuxtjs
 
