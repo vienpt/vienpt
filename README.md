@@ -1,13 +1,15 @@
 ## Hi there, I'm Vien 👋
-I create interactive web stuff using Vuejs, Nuxtjs in front-end and .Net Core, Java Springboot in back-end. You can find my blog-posts on my [ website](https://viendev.netlify.app), which is created using Vuepress.
-
-Some technologies I enjoy working with are JAMStack (JavaScript, APIs, Markup), Headless CMS and more. My interest in the Nuxtjs framework that let me create almost web application.
 
 What I have built:
 
 [Archway Factory](https://www.archwayfactory.com/)
 
 [Archway](https://www.archway.co.jp)
+
+Agency:
+
+- Motul: [trainghiemcungmotul](https://trainghiemcungmotul.com/)
+- AstraZeneca: [Poc](https://zingy-salamander-9ffdca.netlify.app/)
 
 
 Apart from this, I also have interest with write some notes on workspace by using tools like: notion, fluid (microsoft), and notes.
