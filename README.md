@@ -8,9 +8,6 @@ I enjoy designing and developing user interfaces.
 
 [Archway](https://www.archway.co.jp)
 
-### What I'm buiding:
-Clone Apple Music with Nuxt3
-
 Agency:
 
 - Motul: [trainghiemcungmotul](https://trainghiemcungmotul.com/)
