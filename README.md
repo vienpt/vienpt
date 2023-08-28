@@ -19,3 +19,4 @@
 - https://www.archwayfactory.com
 - https://www.archway.co.jp
 - https://viendev.netlify.app
+- https://reviewarchdocsdesign.z7.web.core.windows.net/
