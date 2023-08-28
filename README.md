@@ -18,7 +18,3 @@
 - https://www.archwayfactory.com
 - https://www.archway.co.jp
 - https://viendev.netlify.app
-
-
-### Find me around the web:
-- [Twitter](https://twitter.com/vienvee_bb)
