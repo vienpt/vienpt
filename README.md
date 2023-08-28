@@ -1,14 +1,24 @@
 ## Hi there, I'm Vien 👋
-### What I have built:
 
-[Archway Factory](https://www.archwayfactory.com/)
+### Showcases:
 
-[Archway](https://www.archway.co.jp)
+#### 2023
+- https://zingy-salamander-9ffdca.netlify.app/
+- https://joblogic-challenge.vercel.app/
 
-[trainghiemcungmotul](https://trainghiemcungmotul.com/)
+#### 2022
+- https://trainghiemcungmotul.com
 
-[Poc](https://zingy-salamander-9ffdca.netlify.app/)
+#### 2021
+- https://viencodes.vercel.app/
+- https://vienblog.vercel.app/
+- https://dev-blog-git-main-vienpt.vercel.app/
+
+#### 2020
+- https://www.archwayfactory.com
+- https://www.archway.co.jp
+- https://viendev.netlify.app
+
 
 ### Find me around the web:
-- [Personal Blog](https://viendev.netlify.app)
 - [Twitter](https://twitter.com/vienvee_bb)
