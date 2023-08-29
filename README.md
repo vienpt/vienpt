@@ -1,7 +1,5 @@
 ## Hi there, I'm Vien 👋
 
-About me: https://vienresume.netlify.app
-
 <details>
 <summary>
 Showcases
