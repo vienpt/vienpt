@@ -4,7 +4,6 @@
 
 #### 2023
 - https://zingy-salamander-9ffdca.netlify.app
-- https://joblogic-challenge.vercel.app
 - https://vienresume.netlify.app
 
 #### 2022
