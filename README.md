@@ -2,7 +2,7 @@
 
 <details>
 <summary>
-Showcases
+Journey
 </summary>
 
 - https://zingy-salamander-9ffdca.netlify.app
