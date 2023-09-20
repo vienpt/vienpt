@@ -1,5 +1,7 @@
 ## Hi there, I'm Vien 👋
 
+Work for assets
+
 <details>
 <summary>
 Journey
