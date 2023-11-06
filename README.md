@@ -7,6 +7,9 @@ Work for assets
 Journey
 </summary>
 
+- https://nextjs-movie-friends.vercel.app
+- https://nuxt3-default-webapp-template.vercel.app
+- https://nuxt-dynamic-page.vercel.app
 - https://game-homepage-sand.vercel.app
 - https://zingy-salamander-9ffdca.netlify.app
 - https://trainghiemcungmotul.com
